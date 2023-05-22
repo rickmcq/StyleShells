@@ -10,7 +10,6 @@ Provides pages used by site developers to properly apply the styles to the pages
 
 THE FILES:
 
-* Branding Guidance: Provides instructions on how to use the logo (DOs and DONTs) and other style elements. 
 * BootStrap demo: Shows all bootstrap styles applied to page (html) elements.
-* Color Palette: Provides all brand colors. Colors can be picked up and applied for special situations that are not handled by the BootStrap styles. 
+* Color Palette: Provides all brand colors. COlors can be picked up and applied for special situations not handled by the BootStrap styles. 
 ...
